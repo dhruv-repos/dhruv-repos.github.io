@@ -12,7 +12,7 @@ layout: default
 
 ## Core Concepts
 |User Pools|Identity Pools|
-|----------|--------------|
+|:----------|:--------------|
 |use cognito or social as identity provider|Short term access ,get credential as IAM|
 |User directories |dynamic select IAM using token attributes|
 |Oauth 2.0 flow/auth flow|
