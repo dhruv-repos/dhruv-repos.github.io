@@ -11,6 +11,7 @@ layout: default
 - Provide Temp access to AWS resource
 
 ## Core Concepts
+
 | User Pools                                 | Identity Pools                            |
 |:-------------------------------------------|:------------------------------------------|
 | use cognito or social as identity provider | Short term access ,get credential as IAM  |
