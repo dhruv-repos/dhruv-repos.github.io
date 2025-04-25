@@ -8,6 +8,7 @@ Infrastructure as Code (IaC) is the managing and provisioning of infrastructure 
 With IaC, configuration files are created that contain your infrastructure specifications, which makes it easier to edit and distribute configurations.
 ## Sections in Cloud Front template
 - Resources : required top-level section in a CloudFormation template. It declares the AWS resources that you want CloudFormation to provision and configure as part of your stack.
+  
 ```yaml
 {
 Resources:
