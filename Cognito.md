@@ -11,11 +11,11 @@ layout: default
 - Provide Temp access to AWS resource
 
 ## Core Concepts
-|User Pools|Identity Pools|
-|:----------|:--------------|
-|use cognito or social as identity provider|Short term access ,get credential as IAM|
-|User directories |dynamic select IAM using token attributes|
-|Oauth 2.0 flow/auth flow|
+| User Pools | Identity Pools |
+| :---------- | :-------------- |
+| use cognito or social as identity provider | Short term access ,get credential as IAM |
+| User directories | dynamic select IAM using token attributes |
+| Oauth 2.0 flow/auth flow|
 
 **User Pool Hosted UI**<br>
 user sign in => redirect to cognito UI => Sign up => add to user pool => redirect back to web app
