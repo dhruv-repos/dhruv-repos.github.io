@@ -1,5 +1,5 @@
 ---
-title: AWS Cloudformation
+title: AWS Cloudfront
 layout: default
 ---
 # AWS Cloudformation
