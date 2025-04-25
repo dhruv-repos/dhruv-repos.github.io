@@ -2,7 +2,7 @@
 title: AWS Cloudfront
 layout: default
 ---
-# AWS Cloudformation
+# AWS Cloudfront
 Summary & Explanation of CloudFront Points of Presence (POPs) and Regional Edge Caches
 
 1. CloudFront POPs (Edge Locations)
